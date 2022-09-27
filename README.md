@@ -4,6 +4,13 @@
 <h2>About Me</h2>
 I'm Software Engineer with experiences in Android (Java & Kotlin) and Game Development (C# & C++)
 
+<h2>Projects</h2>
+<h4>Projects in which I participated</h4>
+
+I worked on the Porting from PC to PS4 and Nintendo Switch of [Evertried](https://evertried.dangenentertainment.com/)
+
+<h2>Profile Information</h2>
+
 - 🔭 I’m currently working on **Android Apps and Game Development**
 
 - 🌱 I’m currently learning **DevOps**
