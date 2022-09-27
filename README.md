@@ -7,7 +7,7 @@ I'm Software Engineer with experiences in Android (Java & Kotlin) and Game Devel
 <h2>Projects</h2>
 <h4>Projects in which I participated</h4>
 
-I worked on the Porting from PC to PS4 and Nintendo Switch of [Evertried](https://evertried.dangenentertainment.com/)
+- I worked on the Porting from PC to PS4 and Nintendo Switch of [Evertried](https://evertried.dangenentertainment.com/)
 
 <h2>Profile Information</h2>
 
