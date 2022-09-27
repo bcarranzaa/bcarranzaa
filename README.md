@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bryan Carranza</h1>
 <h3 align="center">Software Engineer (Android, Unity, DevOps)</h3>
 
-- 🔭 I’m currently working on **Android Apps**
+<h2>About Me</h2>
+I'm Software Engineer with experiences in Android (Java & Kotlin) and Game Development (C# & C++)
+
+- 🔭 I’m currently working on **Android Apps and Game Development**
 
 - 🌱 I’m currently learning **DevOps**
 
