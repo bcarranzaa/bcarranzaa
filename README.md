@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan Carranza</h1>
+<h1 align="center">Hi 👋, I'm Bryan Carret</h1>
 <h3 align="center">Software Engineer (Android, Unity, DevOps)</h3>
 
 <h2>About Me</h2>
