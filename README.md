@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryan Carret</h1>
-<h3 align="center">Software Engineer (Android, Unity, DevOps)</h3>
+<h3 align="center">Software Engineer (Android, Unity, Web, DevOps)</h3>
 
 <h2>About Me</h2>
-I'm Software Engineer with experiences in Android (Java & Kotlin) and Game Development (C# & C++)
+I'm Software Engineer with experience in Android (Java & Kotlin) and Game Development (C# & C++)
 
 <h2>Projects</h2>
 <h4>Projects in which I participated</h4>
@@ -13,17 +13,17 @@ I'm Software Engineer with experiences in Android (Java & Kotlin) and Game Devel
 
 - 🔭 I’m currently working on **Android Apps and Game Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Web Development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Indie Games**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://www.coderranza.com](https://www.coderranza.com)
 
 - 📝 I regularly write articles on [https://dev.to/coderranza](https://dev.to/coderranza)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bryancaranzar**
 
